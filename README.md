@@ -7,6 +7,6 @@ android-obb-example
 
 Purpose
 -------
-Android example codes for document :  
+Android example codes for slide :  
 ######_Android Storage - StorageManager & OBB_######
 <http://www.slideshare.net/wiliwe/android-storage-storagemanager-obb>  
